@@ -7,3 +7,5 @@ nvidia-cuda-nvrtc-cu11==11.7.99
 nvidia-cuda-runtime-cu11==11.7.99
 nvidia-cudnn-cu11==8.5.0.96
 matplotlib==3.7.0
+jupyterlab==3.5.3
+notebook==6.5.2
