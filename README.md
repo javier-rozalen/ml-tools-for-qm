@@ -10,14 +10,13 @@ To install this project in your computer, follow these steps:
 1. Clone the repository: `git clone https://github.com/javier-rozalen/ml-tools-for-qm.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
-
 ## Usage
 There are three code files: 
 * 1_harmonic_oscillator.ipynb
 * 2_double_well.ipynb
 * 3_hydrogen_atom.ipynb
 
-They are all in the `.ipynb` format, designed to be open with Jupyter Notebook. 
+They are all in the `.ipynb` format, designed to be open with Jupyter Notebook. To open each of them, run the command `jupyter notebook file.ipynb`, "file" being one of the three scripts in the list above. Each cell cell has been pre-run, so you should be able to see the outputs from the start, even before running the cells.
 
 ## Support
 If you have any questions or issues, please contact us at jrozalen@ub.edu.
