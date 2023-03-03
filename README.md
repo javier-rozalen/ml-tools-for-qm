@@ -6,7 +6,7 @@ It contains the code referred to in this [article](https://arxiv.org/abs/2205.12
 ## Installation
 To install this project in your computer, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/javier-rozalen/AJP-Article.git`
+1. Clone the repository: `git clone https://github.com/javier-rozalen/ml-tools-for-qm.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
