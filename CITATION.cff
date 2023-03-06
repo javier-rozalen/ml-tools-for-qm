@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Rozalén Sarmiento
+    given-names: Javier
+    orcid: https://orcid.org/0000-0002-0660-1216
+title: "Machine Learning tools for Quantum Mechanics"
+version: 1.0
+date-released: 2021-08-11
