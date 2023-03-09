@@ -1,0 +1,6 @@
+name: ml-tools-for-qm
+channels:
+  - defaults
+dependencies:
+  - jupyter
+prefix: /home/jozalen/anaconda3/envs/ml-tools-for-qm
