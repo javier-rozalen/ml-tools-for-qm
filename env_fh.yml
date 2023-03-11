@@ -3,5 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyter
-prefix: /home/jozalen/anaconda3/envs/ml-tools-for-qm
+  - pip=23.0.1
+  - pip:
+      - jupyter
+
