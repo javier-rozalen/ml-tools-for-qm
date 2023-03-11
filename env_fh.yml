@@ -6,7 +6,7 @@ dependencies:
   - pip=23.0.1
   - pip:
       - jupyter==1.0.0
-      - torch==1.91.
+      - torch==1.9.1.
       - torchaudio==2.0.0.dev20230120
       - torchvision==0.15.0.dev20230120
       - torchviz==0.0.2
