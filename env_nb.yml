@@ -8,7 +8,6 @@ dependencies:
       - pillow==9.4.0
       - pyparsing==3.0.9
       - pyqt5-sip==12.11.0
-      - _libgcc_mutex==0.1
       - anyio==3.5.0
       - argon2-cffi==21.3.0
       - argon2-cffi-bindings==21.2.0
