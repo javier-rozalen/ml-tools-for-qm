@@ -7,7 +7,7 @@ It contains the code referred to in this [article](https://arxiv.org/abs/2205.12
 ## Installation
 To install this project in your computer, follow one of the following options:
 
-### Option 1. ```conda``` environment  <img src="assets/descarga.svg" alt="anaconda" width="20" height="20"/>
+### Option 1. conda  <img src="assets/anaconda.svg" alt="anaconda" width="20" height="20"/>
 This option creates an isolated virtual environment containing all the necessary dependencies, which are automatically downloaded in the same version that was used to develop the original code, thereby ensuring reproducibility. Follow the steps below:
 
 1. Clone the repository:
@@ -27,7 +27,7 @@ This option creates an isolated virtual environment containing all the necessary
 
 `pip install -r requirements.txt`
 
-### Option 2. Docker 
+### Option 2. Docker   <img src="assets/docker.svg" alt="anaconda" width="20" height="20"/>
 
 
 ## Usage
