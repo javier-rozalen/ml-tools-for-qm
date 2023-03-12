@@ -2,12 +2,28 @@
 <p align="center"><img src="assets/simple_ann.png" alt="Fancy Neural Network" width="65%" height="auto"/></p>
 
 ## What is this repository?
-It contains the code referred to in this [article](https://arxiv.org/abs/2205.12795). The repository contains a detailed PyTorch implementation of the method of *Neural Quantum States* for three different quantum systems, as a first resource for teaching purposes and also as a guide for those starting in the field. Below is a demo of a NQS being trained to find a wave function:
+It contains the code referred to in this [article](https://arxiv.org/abs/2205.12795). The repository is meant to provide a detailed PyTorch implementation of the method of *Neural Quantum States* for three different quantum systems, as a first resource for teaching purposes and also as a guide for those starting in the field. Below is a demo of a NQS being trained to find a wave function:
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30%" height="auto" />
 
+Repository structure:
+
+```bash
+.
+├── assets                                    # Images, logos
+├── .gitignore
+├── 1_harmonic_oscillator.ipynb               # NQS implementation of a quantum HO
+├── 2_double_well.ipynb                       # NQS implementation of a quantum double well
+├── 3_hydrogen_atom.ipynb                     # NQS implementation of a hydrogenoid atom
+├── CITATION.cff                              # Citation file
+├── LICENSE                                   # License
+├── README.md
+├── env.yml                                   # Conda environment
+└── requirements.txt                          # requirements
+```
+
 ## Installation
-To install this project in your computer, follow one of the following options:
+To install this project in your computer, choose one of the following options:
 
 ### Option 1. conda  <img src="assets/anaconda.svg" alt="anaconda" width="20" height="20"/>
 This option creates an isolated virtual environment containing all the necessary dependencies, which are automatically downloaded in the same version that was used to develop the original code, thereby ensuring reproducibility. Follow the steps below:
