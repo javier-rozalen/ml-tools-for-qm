@@ -54,5 +54,22 @@ They are all in the `.ipynb` format, designed to be open with Jupyter Notebook. 
 
 <p align="center"><img src="assets/HO_training.gif" width="100%" height="auto" /></p>
 
+## Uninstall
+To remove the virtual environment created with Option 1 follow the steps below:
+
+1. Make sure your current environment is not `ml-tools-for-qm`, or if it is, type:
+
+`conda deactivate`
+
+2. Remove the environment.
+
+`conda remove -n ml-tools-for-qm --all`
+
+3. Remove the local repository.
+
+Windows: `rmdir /S ml-tools-for-qm`
+
+Linux/MacOS: `rm -r ml-tools-for-qm`
+
 ## Support
 If you have any questions or issues, please contact us at jrozalen@ub.edu.
