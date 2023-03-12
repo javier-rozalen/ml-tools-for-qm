@@ -7,24 +7,30 @@ It contains the code referred to in this [article](https://arxiv.org/abs/2205.12
 ## Installation
 To install this project in your computer, follow one of the following options:
 
-### Option 1. ```conda``` environment (Recommended)
+### Option 1. ```conda``` environment 
 This option creates an isolated virtual environment containing all the necessary dependencies, which are automatically downloaded in the same version that was used to develop the original code, thereby ensuring reproducibility. Follow the steps below:
 
-`git clone https://github.com/javier-rozalen/ml-tools-for-qm.git      # Clone the repository`
+1. Clone the repository:
+
+`git clone https://github.com/javier-rozalen/ml-tools-for-qm.git`
+
+`cd ml-tools-for-qm.git` 
 
 2. If ```conda``` is not installed in your system, you can download it from https://docs.conda.io/en/latest/miniconda.html. 
 3. Create a conda environment from the ```.yml``` file in the repository: 
 
-```conda env create --file conda_env.yml```.
+`conda env create --file env.yml`
 
-4. Activate the environment: ```conda activate ml-tools-for-qm```.
+4. Activate the environment: 
+
+`conda activate ml-tools-for-qm`
+
+5. Install further requirements:
+
+`pip install -r requirements.txt`
 
 ### Option 2. Docker 
 
-
-### Option 3. Bare execution
-1. Clone the repository: `git clone https://github.com/javier-rozalen/ml-tools-for-qm.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 There are three code files: 
