@@ -52,7 +52,7 @@ There are three code files:
 
 They are all in the `.ipynb` format, designed to be open with Jupyter Notebook. To open each of them, run the command `jupyter notebook file.ipynb`, "file" being one of the three scripts in the list above. Each cell cell has been pre-run, so you should be able to see the outputs from the start, even before running the cells. Below is a demo of the first file being run:
 
-<p align="center"><img src="assets/HO_training.gif" width="70%" height="80%" /></p>
+<p align="center"><img src="assets/HO_training.gif" width="100%" height="auto" /></p>
 
 ## Support
 If you have any questions or issues, please contact us at jrozalen@ub.edu.
