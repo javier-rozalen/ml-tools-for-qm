@@ -2,9 +2,7 @@
 <p align="center"><img src="assets/simple_ann.png" alt="Fancy Neural Network" width="80%" height="auto"/></p>
 
 ## What is this repository?
-It contains the code referred to in this [article](https://arxiv.org/abs/2205.12795). The repository is meant to provide a detailed PyTorch implementation of the method of *Neural Quantum States* for three different quantum systems, as a first resource for teaching purposes and also as a guide for those starting in the field. Below is a demo of a NQS being trained to find a wave function:
-
-<p align="center"><img src="assets/HO_training.gif" width="70%" height="80%" /></p>
+It contains the code referred to in this [article](https://arxiv.org/abs/2205.12795). The repository is meant to provide a detailed PyTorch implementation of the method of *Neural Quantum States* for three different quantum systems, as a first resource for teaching purposes and also as a guide for those starting in the field. 
 
 Repository structure:
 
@@ -54,7 +52,9 @@ There are three code files:
 * 2_double_well.ipynb
 * 3_hydrogen_atom.ipynb
 
-They are all in the `.ipynb` format, designed to be open with Jupyter Notebook. To open each of them, run the command `jupyter notebook file.ipynb`, "file" being one of the three scripts in the list above. Each cell cell has been pre-run, so you should be able to see the outputs from the start, even before running the cells.
+They are all in the `.ipynb` format, designed to be open with Jupyter Notebook. To open each of them, run the command `jupyter notebook file.ipynb`, "file" being one of the three scripts in the list above. Each cell cell has been pre-run, so you should be able to see the outputs from the start, even before running the cells. Below is a demo of the first file being run:
+
+<p align="center"><img src="assets/HO_training.gif" width="70%" height="80%" /></p>
 
 ## Support
 If you have any questions or issues, please contact us at jrozalen@ub.edu.
