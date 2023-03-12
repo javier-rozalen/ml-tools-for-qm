@@ -10,7 +10,7 @@ Repository structure:
 
 ```bash
 .
-├── assets                                    # Images, logos
+├── assets/                                  # Images, logos
 ├── .gitignore
 ├── 1_harmonic_oscillator.ipynb               # NQS implementation of a quantum HO
 ├── 2_double_well.ipynb                       # NQS implementation of a quantum double well
