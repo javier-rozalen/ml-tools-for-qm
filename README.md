@@ -17,7 +17,7 @@ This option creates an isolated virtual environment containing all the necessary
 2. If ```conda``` is not installed in your system, you can download it from https://docs.conda.io/en/latest/miniconda.html. 
 3. Create a conda environment from the ```.yml``` file in the repository: 
 
-`conda env create --file env.yml`
+`conda env create -f env.yml`
 
 4. Activate the environment: 
 
