@@ -25,7 +25,7 @@ Repository structure:
 ## Installation
 To install this project in your computer, choose one of the following options:
 
-### Option 1. conda  <img src="assets/anaconda.svg" alt="anaconda" width="20" height="20"/>
+### Option 1. conda  <img src="assets/anaconda.svg" alt="anaconda" width="20" height="20"/>          
 This option creates an isolated virtual environment containing all the necessary dependencies, which are automatically downloaded in the same version that was used to develop the original code, thereby ensuring reproducibility. Follow the steps below:
 
 1. Clone the repository:
