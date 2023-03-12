@@ -12,9 +12,7 @@ This option creates an isolated virtual environment containing all the necessary
 
 1. Clone the repository:
 
-`git clone https://github.com/javier-rozalen/ml-tools-for-qm.git`
-
-`cd ml-tools-for-qm.git` 
+`git clone https://github.com/javier-rozalen/ml-tools-for-qm.git && cd ml-tools-for-qm`
 
 2. If ```conda``` is not installed in your system, you can download it from https://docs.conda.io/en/latest/miniconda.html. 
 3. Create a conda environment from the ```.yml``` file in the repository: 
