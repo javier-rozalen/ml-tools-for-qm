@@ -42,7 +42,7 @@ To install this project in your computer, choose one of the following options:
 `pip install -r requirements.txt`
 
 ### Option 2. Docker   <img src="assets/docker.svg" alt="anaconda" width="20" height="20"/>
-
+Coming soon...
 
 ## Usage
 There are three code files: 
